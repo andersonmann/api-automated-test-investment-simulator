@@ -14,5 +14,5 @@ public interface Constants {
 
 	ContentType APP_CONTENT_TYPE = ContentType.JSON;
 
-	Long MAX_TIMEOUT = 1000l;
+	Long MAX_TIMEOUT = 3000l;
 }
