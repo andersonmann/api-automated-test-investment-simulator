@@ -3,11 +3,8 @@
  */
 package core;
 
-import org.junit.BeforeClass;
-
-import java.math.MathContext;
-
 import org.hamcrest.Matchers;
+import org.junit.BeforeClass;
 
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
